@@ -1,0 +1,27 @@
+1. Identifique todos los vértices del grafo.
+R// el grafo cuenta con 6 vertices en total
+
+V = \{1, 2, 3, 4, 5, 6\}
+
+2. Identifique todas las aristas. 
+R// El grafo cuenta con 8 aristas dirigidas (cuidadosamente hacia dónde apunta cada flecha):
+
+   E = {(1, 2), (1, 3), (2, 4), (3, 4), (3, 5), (4, 6), (5, 4), (6, 1)}
+   Detalle de cada conexión:
+   Del 1 sale una flecha hacia el 2 (1-2)
+   Del 1 sale una flecha hacia el 3 (1-3)
+   Del 2 sale una flecha hacia el 4 (2-4)  
+   Del 3 sale una flecha hacia el 4 (3-4) 
+   Del 3 sale una flecha hacia el 5 (3-5) 
+   Del 4 sale una flecha hacia el 6 (4-6)
+   Del 5 sale una flecha hacia el 4 (5-4)  
+   Del 6 sale una flecha hacia el 1 (6-1)
+
+   3. Indique si el grafo es dirigido o no dirigido. 
+   R//Es un grafo dirigido, ya que todas sus aristas están representadas por flechas que indican un único sentido
+    o dirección de recorrido entre un vértice de origen y uno de destino, es decir tiene un camino en linea en donde
+    no se puede devolver solo inicio y destino con uno o varios elementos dependiendo os que sean asignados
+    en donde estos se pasan onformacion o datos pero no se regresan por ningun motivo.
+    ejm: existe camino directo de 1 a 2, pero no de 2 a 1.
+
+    

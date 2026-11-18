@@ -1,0 +1,48 @@
+1. Situación del mundo real:
+ Evolución de las etapas de la vida humana y transmisión generacional del aprendizaje
+El grafo representa el ciclo de vida de una persona a través de sus 6 etapas fundamentales y los aprendizajes,
+ habilidades y valores adquiridos en una etapa se transfieren e impulsan las etapas posteriores.
+
+  El grafo es dirigido porque el tiempo no retrocede: las experiencias vividas no se devuelven, sino que se acumulan
+   y proyectan hacia adelante (e incluso se transmiten a la siguiente generación)
+   2. Explicación clara de los elementos:
+   
+   ¿Qué representan los vértices (V = {1, 2, 3, 4, 5, 6})?
+
+Cada vértice representa una etapa cronológica de la vida humana: 
+
+  Vértice 1: Infancia (primeros años de vida)
+  .Vértice 2: Niñez.  (juegos,inicio en estudio e inicio social)
+  Vértice 3: Adolescencia.  (estudio,primer amor y experiencias nuevas)
+  Vértice 4: Adultez (paso al ambiente laboral,nuevos compañeros puntos de vista y nuevas oportunidades y experiencias)
+   Vértice 5: Edad Madura. (mas sabio mas prevenido y donde puedes dar inicio a compartir tu experiencia )
+   Vértice 6: Vejez. (llega o se acerca tu jubilacion y eres muy experimentado en casi todo)
+
+   ¿Qué representan las aristas?
+Cada arista dirigidarepresenta el flujo del tiempo y la transferencia de aprendizajes, habilidades y experiencias
+ que se desarrollan en una etapa y sirven de base para la siguiente.
+
+ (1-2) Infancia a Niñez: Habilidades básicas como caminar, hablar y explorar el entorno permiten entrar a la etapa 
+ escolar y del juego.
+
+ (1-3) Infancia a Adolescencia: La base emocional, el apego y los primeros valores formados en la infancia repercuten
+  directamente en la construcción de la identidad durante la adolescencia.
+
+(2-4) Niñez a Adultez: La disciplina del estudio, el compañerismo y la curiosidad aprendidos de niño se proyectan en la
+ capacidad de trabajar y convivir en la adultez.
+
+ (3-4)Adolescencia a Adultez: El estudio más serio, la toma de decisiones y las primeras lecciones de la vida preparan
+  a la persona para asumir responsabilidades adultas (trabajo, amor, confianza).
+
+  (3-5) Adolescencia a Edad Madura: Las metas, vocación y carácter forjados en la juventud maduran y se consolidan en 
+  la plenitud de la vida.
+
+  (5-4) Edad Madura a Adultez: La experiencia y sabiduría adquiridas en la madurez retroalimentan y fortalecen el 
+  criterio para enfrentar los retos de la vida adulta.
+
+(4-6) Adultez a Vejez: Todo el esfuerzo laboral, los vínculos afectivos y la estabilidad construida durante la adultez
+ permiten disfrutar de una jubilación y una vejez tranquila.
+
+ (6-1)Vejez a Infancia (Cierre del ciclo generacional): Aunque el tiempo individual no se devuelve, la sabiduría,
+  historias y consejos de los abuelos en la vejez se transmiten a los niños que inician su infancia, cerrando el ciclo 
+  de aprendizaje humano.

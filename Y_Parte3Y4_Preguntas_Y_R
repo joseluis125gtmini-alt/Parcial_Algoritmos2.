@@ -1,0 +1,48 @@
+ Determine cuál representación es más adecuada para su grafo:
+
+R//  Un grafo dirigido permite representar conexiones que tienen un sentido específico, lo que facilita modelar 
+procesos donde existe un orden o una dirección. Por ejemplo, las rutas de circulación, los procesos de una empresa
+ y las páginas web.
+En cambio, un grafo no dirigido representa conexiones en ambos sentidos, sin establecer una dirección entre los 
+vértices.
+ 
+ ¿Qué tipo de problemas reales requieren el uso de grafos dirigidos y no dirigidos?
+
+R//Los grafos dirigidos se utilizan para representar rutas de transporte con calles de un solo sentido,
+ redes de páginas web y procesos que siguen un orden determinado.
+Los grafos no dirigidos se utilizan para representar amistades entre personas, conexiones entre computadores y 
+carreteras que permiten desplazarse en ambos sentidos.
+Ambos tipos de grafos permiten representar situaciones reales y analizar las relaciones entre diferentes elementos.
+
+
+ Análisis y toma de decisiones
+
+1 ¿Cuál representación es más adecuada?
+
+La lista de adyacencia.
+
+2  Justificación
+
+ Uso de memoria: utiliza menos memoria porque almacena únicamente las conexiones existentes.
+
+ Cantidad de conexiones: el grafo tiene 6 vértices y 8 aristas, por lo que no todos los vértices están conectados entre sí.
+
+ Facilidad de implementación: es sencilla de implementar porque cada vértice tiene una lista con sus conexiones correspondientes.
+
+Por estas razones, considero que la lista de adyacencia es la representación más adecuada para este grafo.
+
+ Parte 4. Preguntas de análisis
+
+1 ¿Qué ventajas tiene un grafo dirigido frente a uno no dirigido?
+
+Un grafo dirigido permite representar conexiones que tienen un sentido específico, lo que facilita modelar procesos donde existe un orden o una dirección. Por ejemplo, las rutas de circulación, los procesos de una empresa y las páginas web.
+
+En cambio, un grafo no dirigido representa conexiones en ambos sentidos, sin establecer una dirección entre los vértices.
+
+2 ¿Qué tipo de problemas reales requieren el uso de grafos dirigidos y no dirigidos?
+
+Los grafos dirigidos se utilizan para representar rutas de transporte con calles de un solo sentido, redes de páginas web y procesos que siguen un orden determinado.
+
+Los grafos no dirigidos se utilizan para representar amistades entre personas, conexiones entre computadores y carreteras que permiten desplazarse en ambos sentidos.
+
+Ambos tipos de grafos permiten representar situaciones reales y analizar las relaciones entre diferentes elementos.
